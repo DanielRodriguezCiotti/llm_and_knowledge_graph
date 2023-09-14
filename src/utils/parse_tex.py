@@ -1,6 +1,8 @@
 import os
 import networkx as nx
 import matplotlib.pyplot as plt
+from clean import text_to_kg
+import pickle
 
 
 def flatten_list(l):
@@ -58,6 +60,8 @@ def find_subsections(section):
             sub_titles.append(clean_title(line))
     if not section.startswith("\\subsection") and len(subs) > 1:
         subs = subs[1:] 
+    subs = ["\n".join(sub.split("\n")[1:]) for sub in subs]
+    subs = [sub for sub in subs if sub != ""]
     return subs, sub_titles
 
 
@@ -75,9 +79,10 @@ def find_sections(main_tex):
     return sections, inputs
 
 
-def create_subsection_edge(section, subs):
-    edges = [(section, sub, "subsection") for sub in subs]
+def create_subsection_edge(section, subs, relation="subsection"):
+    edges = [(section, sub, relation) for sub in subs]
     return edges
+
 
 def parse_main(main_tex):
     # \title{}
@@ -90,27 +95,47 @@ def parse_main(main_tex):
     keywords = find_keywords(main_tex)
     # \section{} \n \input{} 
     sections, inputs = find_sections(main_tex)
-    subsections = []
+    subsections_titles = []
+    subsections_text = []
     for path in inputs:
         if not path.endswith(".tex"):
             path = path + ".tex"
         path = os.path.join("tex", path)
         text = read_text(path)
         subs_text, sub_titles = find_subsections(text)
-        subsections.append(sub_titles)
+        subsections_titles.append(sub_titles)
+        subsections_text.append(subs_text)
+    intrasection_nodes = []
+    intrasection_edges = []
+    for i in range(len(sections)):
+        if len(subsections_titles[i]) == 0:
+            text = read_text(os.path.join("tex", inputs[i]))
+            path = os.path.join("completion_2", inputs[i].split(".")[0]) + ".json"
+            section_nodes, section_edges = text_to_kg(text, path)
+            intrasection_nodes += section_nodes
+            intrasection_edges += [(sections[i], n, "mentions") for n in section_nodes]
+            intrasection_edges += section_edges
+        else:
+            for j, sub in enumerate(subsections_text[i]):
+                path = os.path.join("completion_2", inputs[i].split(".")[0]) + "_" + subsections_titles[i][j] + ".json"
+                subsection_nodes, subsection_edges = text_to_kg(sub, path)
+                intrasection_nodes += subsection_nodes
+                intrasection_edges += [(subsections_titles[i], n, "mentions") for n in subsection_nodes]
+                intrasection_edges += subsection_edges
 
     nodes = [title]
     nodes += keywords
     nodes += authors
     nodes += sections
-    nodes += flatten_list(subsections)
-    # add keywords
+    nodes += flatten_list(subsections_titles)
+    nodes += intrasection_nodes
     sections_edges = [(title, section, "section") for section in sections]
     authors_edges = [(title, author, "author") for author in authors]
     keywords_edges = [(title, keyword, "keyword") for keyword in keywords]
-    subsections_edges = [create_subsection_edge(sections[i], subsections[i]) for i in range(len(sections))]
-    edges = sections_edges + authors_edges + keywords_edges + flatten_list(subsections_edges)
+    subsections_edges = [create_subsection_edge(sections[i], subsections_titles[i], "subsection") for i in range(len(sections))]
+    edges = sections_edges + authors_edges + keywords_edges + flatten_list(subsections_edges) + intrasection_edges
     return nodes, edges
+
 
 def create_graph(nodes, edges):
     G = nx.DiGraph()
@@ -125,6 +150,13 @@ with open("tex/Main.tex") as f:
 
 
 nodes, edges = parse_main(text)
+
+with open("nodes_list", "wb") as fp:
+    pickle.dump(nodes, fp)
+
+with open("edges_list", "wb") as fp:
+    pickle.dump(edges, fp)
+
 g = create_graph(nodes, edges)
 nx.draw(g)
 plt.savefig("fig.png")
