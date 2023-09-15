@@ -1,0 +1,1401 @@
+{
+    "paragraphs": [
+        {
+            "section": "Abstract",
+            "number": 1,
+            "text": "The lunar geological record has much to tell us about the earliest history of the Solar System, the origin and evolution of the Ea rth-Moon system, the ge ological evolution of rocky planets, and the near-Earth cosmic environment throughout Solar System history. In addition, the lunar surface offers outstanding opp ortunities for research in astronomy, astrobiology, fundamental physics,  life sciences and human physiology and medicine. This paper provides an inte rdisciplinary review of outstanding lunar science objectives in all of these different areas. It is concluded that addressing them satisfactorily will require an end to the 40- year hiatus of lunar surface exploration, and the placing of new scientific instrume nts on, and the return of additional samples from, the surface of the Moon. Some of thes e objectives can be achieved robotically (e.g. through targeted sample return, the de ployment of geophysical networks, and the placing of antennas on the lunar surface to form radio telescopes). However, in the longer term, most of these scientific obj ectives would benefit significantly from renewed human operations on the lunar surface. For these reasons it is highly desirable that current plans for renewed robotic surface exploration of the Moon are developed in the context of a future human lunar exploration programme, such as that proposed by the recently formulat ed Global Exploration Roadmap.  Keywords : Moon; Lunar science; Lunar ge ology; Lunar geophysics; Lunar astronomy; Space exploration; Astrobiology;  Space life sciences ; Space medicine  ",
+            "graph": {
+                "nodes": [
+                    "lunar geological record",
+                    "Solar System",
+                    "origin and evolution of the Earth-Moon system",
+                    "geological evolution of rocky planets",
+                    "near-Earth cosmic environment",
+                    "lunar surface",
+                    "research in astronomy",
+                    "astrobiology",
+                    "fundamental physics",
+                    "life sciences",
+                    "human physiology and medicine",
+                    "lunar science objectives",
+                    "lunar surface exploration",
+                    "scientific instruments",
+                    "surface of the Moon",
+                    "robotic exploration",
+                    "geophysical networks",
+                    "radio telescopes",
+                    "human operations on the lunar surface",
+                    "human lunar exploration programme",
+                    "Global Exploration Roadmap",
+                    "Lunar geology",
+                    "Lunar geophysics",
+                    "Lunar astronomy",
+                    "Space exploration",
+                    "Space life sciences",
+                    "Space medicine"
+                ],
+                "relations": [
+                    [
+                        "lunar geological record",
+                        "Solar System",
+                        "provides information about"
+                    ],
+                    [
+                        "lunar geological record",
+                        "origin and evolution of the Earth-Moon system",
+                        "provides information about"
+                    ],
+                    [
+                        "lunar geological record",
+                        "geological evolution of rocky planets",
+                        "provides information about"
+                    ],
+                    [
+                        "lunar geological record",
+                        "near-Earth cosmic environment",
+                        "provides information about"
+                    ],
+                    [
+                        "lunar surface",
+                        "research in astronomy",
+                        "offers opportunities for"
+                    ],
+                    [
+                        "lunar surface",
+                        "astrobiology",
+                        "offers opportunities for"
+                    ],
+                    [
+                        "lunar surface",
+                        "fundamental physics",
+                        "offers opportunities for"
+                    ],
+                    [
+                        "lunar surface",
+                        "life sciences",
+                        "offers opportunities for"
+                    ],
+                    [
+                        "lunar surface",
+                        "human physiology and medicine",
+                        "offers opportunities for"
+                    ],
+                    [
+                        "lunar surface exploration",
+                        "lunar science objectives",
+                        "required to address"
+                    ],
+                    [
+                        "lunar surface exploration",
+                        "scientific instruments",
+                        "requires placing on the Moon"
+                    ],
+                    [
+                        "lunar surface exploration",
+                        "surface of the Moon",
+                        "requires return of additional samples from"
+                    ],
+                    [
+                        "robotic exploration",
+                        "lunar science objectives",
+                        "can achieve some of"
+                    ],
+                    [
+                        "robotic exploration",
+                        "geophysical networks",
+                        "involves deployment of"
+                    ],
+                    [
+                        "robotic exploration",
+                        "radio telescopes",
+                        "involves placing antennas on the lunar surface"
+                    ],
+                    [
+                        "human operations on the lunar surface",
+                        "lunar science objectives",
+                        "would significantly benefit most of"
+                    ],
+                    [
+                        "human lunar exploration programme",
+                        "robotic surface exploration of the Moon",
+                        "should be developed in the context of"
+                    ],
+                    [
+                        "Global Exploration Roadmap",
+                        "human lunar exploration programme",
+                        "proposes"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "1. Introduction",
+            "number": 1,
+            "text": " Over the last decade there has been a renaissance in lunar exploration conducted from orbit about the Moon, with the followi ng countries all sending remote-sensing spacecraft to lunar orbit during this period: European Space Agency: SMART-1 (2004); Japan: Kaguya (2007); China: Cha ng\u2019e-1 (2007), Chang\u2019e-2 (2010); India: Chandrayaan-1 (2008); and the United Stat es: Lunar Reconnaissance Orbiter (LRO; 2009), GRAIL (2012). However, none of thes e spacecraft were designed to land on the Moon\u2019s surface in a controlled manner, although the US Lunar CRater Observation and Sensing Satellite (LCROSS; co-launched with LRO) and the Chandrayaan-1 Moon Impact Probe (MIP) di d deliberately impact the lunar surface in an effort to detect polar volatiles. Indeed, it is sobering to realise that no spacecraft of any kind has successfully landed on the Mo on in a controlled manner since the Russian robotic sample return mission L una 24 in August 1976, and that no human being has set foot on the Moon since Apollo 17 in December 1972. In this paper we argue that this long hiatus in lunar surface exploration has been to the detriment of lunar and planetary science, and indeed of other sciences also, and that the time has come to resume the robotic and human exploration of the surface of the Moon.  The strong scientific case for renewed luna r exploration was already recognized in a comprehensive study conducted by the European Space Agency in 1992 on \u201cEurope\u2019s Priorities for the Scientif ic Exploration and Utiliza tion of the Moon\u201d (ESA 1992). Many of the conclusions of this earlier study  remain valid today, albeit with some need of updating in light of more recent di scoveries, and we will follow its basic framework in what follows. In particul ar, the ESA study found that lunar science objectives can logically be di vided into three categories: (i) Science of the Moon (i.e.  studies of the Moon itself); (ii) Science on the Moon (i .e. studies using the lunar surface as a platform for scie ntific investigations not di rectly related to the Moon itself); and (iii) Science from the Moon (i .e. studies utilising th e lunar surface as a platform for astronomical observations).  ",
+            "graph": {
+                "nodes": [
+                    "lunar exploration",
+                    "European Space Agency",
+                    "SMART-1",
+                    "Japan",
+                    "Kaguya",
+                    "China",
+                    "Chang\u2019e-1",
+                    "Chang\u2019e-2",
+                    "India",
+                    "Chandrayaan-1",
+                    "United States",
+                    "Lunar Reconnaissance Orbiter",
+                    "GRAIL",
+                    "Lunar CRater Observation and Sensing Satellite",
+                    "Moon Impact Probe",
+                    "polar volatiles",
+                    "Luna 24",
+                    "Apollo 17",
+                    "lunar and planetary science",
+                    "robotic and human exploration",
+                    "Europe\u2019s Priorities for the Scientific Exploration and Utilization of the Moon",
+                    "Science of the Moon",
+                    "Science on the Moon",
+                    "Science from the Moon"
+                ],
+                "relations": [
+                    [
+                        "European Space Agency",
+                        "SMART-1",
+                        "launched"
+                    ],
+                    [
+                        "Japan",
+                        "Kaguya",
+                        "launched"
+                    ],
+                    [
+                        "China",
+                        "Chang\u2019e-1",
+                        "launched"
+                    ],
+                    [
+                        "China",
+                        "Chang\u2019e-2",
+                        "launched"
+                    ],
+                    [
+                        "India",
+                        "Chandrayaan-1",
+                        "launched"
+                    ],
+                    [
+                        "United States",
+                        "Lunar Reconnaissance Orbiter",
+                        "launched"
+                    ],
+                    [
+                        "United States",
+                        "GRAIL",
+                        "launched"
+                    ],
+                    [
+                        "Lunar CRater Observation and Sensing Satellite",
+                        "Moon",
+                        "impacted"
+                    ],
+                    [
+                        "Moon Impact Probe",
+                        "Moon",
+                        "impacted"
+                    ],
+                    [
+                        "Luna 24",
+                        "Moon",
+                        "landed"
+                    ],
+                    [
+                        "Apollo 17",
+                        "Moon",
+                        "landed"
+                    ],
+                    [
+                        "lunar exploration",
+                        "lunar and planetary science",
+                        "benefits"
+                    ],
+                    [
+                        "lunar exploration",
+                        "robotic and human exploration",
+                        "needs to resume"
+                    ],
+                    [
+                        "European Space Agency",
+                        "Europe\u2019s Priorities for the Scientific Exploration and Utilization of the Moon",
+                        "conducted study"
+                    ],
+                    [
+                        "Science of the Moon",
+                        "lunar science objectives",
+                        "category"
+                    ],
+                    [
+                        "Science on the Moon",
+                        "lunar science objectives",
+                        "category"
+                    ],
+                    [
+                        "Science from the Moon",
+                        "lunar science objectives",
+                        "category"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2. Science of the Moon",
+            "number": 1,
+            "text": " From a planetary science perspective, the primary importance of the Moon arises from the fact that, owing to a lack of recen t geological activity and active erosional processes, it has an extremely ancient surfac e, mostly older than 3 billion years with some areas extending almost all the way back  to the origin of the Moon 4.5 billion years ago (e.g. Hiesinger and Head 2006; Jaumann et al., 2012). Its relatively accessible near-surface environment theref ore preserves a record of the early geological evolution of a terrest rial planet, which more complex planets such as Earth, Venus and Mars, have long lost, and of the Earth-Moon system in particular. Moreover, the lunar surface provides a plat form for geophysical instruments (e.g. seismometers and heat-flow probes) to probe the structure and composition of the deep interior, which is also required if  we are to use the Moon as a model for terrestrial planet evolution.  Last, but not le ast, the Moon\u2019s outer la yers also preserve a record of the environment in the i nner Solar System (e.g. meteorite flux, interplanetary dust density, solar wind flux and composition, galactic cosmic ray flux) throughout Solar System history, much of wh ich is relevant to understanding the past habitability of our own planet (e.g. Crawford, 2006; Cockell, 2010).    Gaining access to this information lies primarily in the domain of the geosciences (i.e. geology, geophysics, and geochemistry), and will  require a return to  the lunar surface with robotic and/or human missions.  ",
+            "graph": {
+                "nodes": [
+                    "Moon",
+                    "geological activity",
+                    "erosional processes",
+                    "ancient surface",
+                    "geological evolution",
+                    "terrestrial planet",
+                    "Earth",
+                    "Venus",
+                    "Mars",
+                    "Earth-Moon system",
+                    "geophysical instruments",
+                    "seismometers",
+                    "heat-flow probes",
+                    "deep interior",
+                    "terrestrial planet evolution",
+                    "outer layers",
+                    "inner Solar System",
+                    "meteorite flux",
+                    "interplanetary dust density",
+                    "solar wind flux and composition",
+                    "galactic cosmic ray flux",
+                    "Solar System history",
+                    "past habitability",
+                    "geosciences",
+                    "geology",
+                    "geophysics",
+                    "geochemistry",
+                    "robotic missions",
+                    "human missions"
+                ],
+                "relations": [
+                    [
+                        "Moon",
+                        "geological activity",
+                        "lacks"
+                    ],
+                    [
+                        "Moon",
+                        "erosional processes",
+                        "lacks"
+                    ],
+                    [
+                        "Moon",
+                        "ancient surface",
+                        "has"
+                    ],
+                    [
+                        "Moon",
+                        "geological evolution",
+                        "preserves"
+                    ],
+                    [
+                        "Moon",
+                        "Earth-Moon system",
+                        "part of"
+                    ],
+                    [
+                        "Moon",
+                        "geophysical instruments",
+                        "provides platform for"
+                    ],
+                    [
+                        "Moon",
+                        "deep interior",
+                        "probes"
+                    ],
+                    [
+                        "Moon",
+                        "terrestrial planet evolution",
+                        "model for"
+                    ],
+                    [
+                        "Moon",
+                        "outer layers",
+                        "has"
+                    ],
+                    [
+                        "Moon",
+                        "inner Solar System",
+                        "preserves record of"
+                    ],
+                    [
+                        "Moon",
+                        "Solar System history",
+                        "preserves record of"
+                    ],
+                    [
+                        "Moon",
+                        "past habitability",
+                        "relevant to"
+                    ],
+                    [
+                        "Moon",
+                        "geosciences",
+                        "information lies in"
+                    ],
+                    [
+                        "Moon",
+                        "robotic missions",
+                        "requires return to"
+                    ],
+                    [
+                        "Moon",
+                        "human missions",
+                        "requires return to"
+                    ],
+                    [
+                        "terrestrial planet",
+                        "Earth",
+                        "example of"
+                    ],
+                    [
+                        "terrestrial planet",
+                        "Venus",
+                        "example of"
+                    ],
+                    [
+                        "terrestrial planet",
+                        "Mars",
+                        "example of"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2. Science of the Moon",
+            "number": 2,
+            "text": "The most recent study of \u2018Science of the Moon\u2019 objectives is the US National Research Council\u2019s Report on the Scientif ic Context for Exploration of the Moon (NRC 2007;  hereinafter the \u2018S CEM Report\u2019). This study identified, and prioritized, eight top-level scientific \u2018concepts\u2019 (each of which can be broken down into multiple individual science goals), and identified th e capabilities that would be required of space missions designed to address them. We not e that several of these objectives (i.e. those which could be addre ssed by a South Pole-Aitken Basin sample return mission and a lunar geophysics network) were also  strongly endorsed by the recent US Planetary Science Decadal Survey (NRC,  2011). As a basis for discussion, we summarise these here (as given in Table 4.1 of NRC 2007), and in each case highlight how surface (human and/or robotic) explora tion will aid in meeting these scientific objectives.     ",
+            "graph": {
+                "nodes": [
+                    "Science of the Moon",
+                    "US National Research Council",
+                    "Report on the Scientific Context for Exploration of the Moon",
+                    "scientific concepts",
+                    "space missions",
+                    "objectives",
+                    "South Pole-Aitken Basin sample return mission",
+                    "lunar geophysics network",
+                    "US Planetary Science Decadal Survey",
+                    "surface exploration",
+                    "scientific objectives"
+                ],
+                "relations": [
+                    [
+                        "US National Research Council",
+                        "Report on the Scientific Context for Exploration of the Moon",
+                        "published"
+                    ],
+                    [
+                        "Report on the Scientific Context for Exploration of the Moon",
+                        "Science of the Moon",
+                        "studies"
+                    ],
+                    [
+                        "Report on the Scientific Context for Exploration of the Moon",
+                        "scientific concepts",
+                        "identifies"
+                    ],
+                    [
+                        "scientific concepts",
+                        "space missions",
+                        "required for"
+                    ],
+                    [
+                        "space missions",
+                        "objectives",
+                        "designed to address"
+                    ],
+                    [
+                        "objectives",
+                        "South Pole-Aitken Basin sample return mission",
+                        "addressed by"
+                    ],
+                    [
+                        "objectives",
+                        "lunar geophysics network",
+                        "addressed by"
+                    ],
+                    [
+                        "South Pole-Aitken Basin sample return mission",
+                        "US Planetary Science Decadal Survey",
+                        "endorsed by"
+                    ],
+                    [
+                        "lunar geophysics network",
+                        "US Planetary Science Decadal Survey",
+                        "endorsed by"
+                    ],
+                    [
+                        "surface exploration",
+                        "scientific objectives",
+                        "aids in meeting"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.1 The Bombardment History of the Inner Solar System",
+            "number": 1,
+            "text": " The vast majority of lunar terrains have never been directly sampled, and their ages are based on the observed density of impact  craters calibrated against the ages of Apollo and Luna samples (e.g. Neukum et al., 2001; St\u00f6ffler et al., 2006). However, the current calibration of the cratering rate, us ed to convert crater densities to absolute ages, is neither as complete nor as reliable as it is often made out to be. For example, there are no calibration points that are older than about 3.85 Ga , and crater ages younger than about 3 Ga are also uncertain (e .g. Hiesinger et al., 2012).  Furthermore,  longitudinal variations in the cratering ra te on the surface of the Moon are predicted by orbital dynamics models, bu t these are difficult to confirm with existing data (Le Feuvre and Wieczorek, 2011). Improving the calib ration of the cratering rate would be of great value for planetary science fo r the following three reasons: (i) It would provide better estimates for the ages of unsam pled regions of the lunar surface; (ii) It would provide us with a more reliable estima te of the impact hist ory of the inner Solar System, especially that of our  own planet; and (iii) The luna r impact rate is used, with various other assumptions, to date the surfaces of other planets for which samples have not been obtained (inc luding key events and stratig raphic boundaries on Mars), and to the extent that the lunar rate remains unreliable so do the age estimates of surfaces on the other terrestrial planets.  ",
+            "graph": {
+                "nodes": [
+                    "lunar terrains",
+                    "Apollo and Luna samples",
+                    "cratering rate",
+                    "crater densities",
+                    "absolute ages",
+                    "calibration points",
+                    "crater ages",
+                    "longitudinal variations",
+                    "orbital dynamics models",
+                    "planetary science",
+                    "lunar surface",
+                    "impact history",
+                    "inner Solar System",
+                    "lunar impact rate",
+                    "surfaces of other planets",
+                    "age estimates",
+                    "terrestrial planets"
+                ],
+                "relations": [
+                    [
+                        "lunar terrains",
+                        "Apollo and Luna samples",
+                        "ages based on"
+                    ],
+                    [
+                        "cratering rate",
+                        "crater densities",
+                        "used to convert"
+                    ],
+                    [
+                        "cratering rate",
+                        "absolute ages",
+                        "used to convert"
+                    ],
+                    [
+                        "cratering rate",
+                        "calibration points",
+                        "lacks older than 3.85 Ga"
+                    ],
+                    [
+                        "cratering rate",
+                        "crater ages",
+                        "uncertain for younger than 3 Ga"
+                    ],
+                    [
+                        "longitudinal variations",
+                        "orbital dynamics models",
+                        "predicted by"
+                    ],
+                    [
+                        "cratering rate",
+                        "planetary science",
+                        "improvement would be valuable for"
+                    ],
+                    [
+                        "cratering rate",
+                        "lunar surface",
+                        "used to estimate ages of unsampled regions"
+                    ],
+                    [
+                        "cratering rate",
+                        "impact history",
+                        "used to estimate"
+                    ],
+                    [
+                        "cratering rate",
+                        "inner Solar System",
+                        "used to estimate impact history"
+                    ],
+                    [
+                        "lunar impact rate",
+                        "surfaces of other planets",
+                        "used to date"
+                    ],
+                    [
+                        "lunar impact rate",
+                        "age estimates",
+                        "affects reliability of"
+                    ],
+                    [
+                        "lunar impact rate",
+                        "terrestrial planets",
+                        "affects age estimates of surfaces"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.1 The Bombardment History of the Inner Solar System",
+            "number": 2,
+            "text": "Moreover, there is still uncertainty over whet her the lunar cratering rate has declined monotonically since the forma tion of the Moon, or whethe r there was a bombardment \u2018cataclysm\u2019 between about 3.8 and 4.0 billion years ago characterised by an unusually high rate of impacts (Hartmann et al., 2000; St \u00f6ffler et al., 2006). Clarifying this issue is especially important from an astrobiol ogy perspective because it defines the impact regime under which life on Earth became es tablished (e.g. Maher and Stevenson, 1988; Sleep et al., 1989; Ryder, 2003; for an illustration of this unresolved issue see Fig. 2.3 of NRC 2007).  ",
+            "graph": {
+                "nodes": [
+                    "lunar cratering rate",
+                    "formation of the Moon",
+                    "bombardment \u2018cataclysm\u2019",
+                    "3.8 and 4.0 billion years ago",
+                    "unusually high rate of impacts",
+                    "astrobiology perspective",
+                    "impact regime",
+                    "life on Earth",
+                    "NRC 2007"
+                ],
+                "relations": [
+                    [
+                        "lunar cratering rate",
+                        "formation of the Moon",
+                        "declined since"
+                    ],
+                    [
+                        "bombardment \u2018cataclysm\u2019",
+                        "3.8 and 4.0 billion years ago",
+                        "occurred between"
+                    ],
+                    [
+                        "bombardment \u2018cataclysm\u2019",
+                        "unusually high rate of impacts",
+                        "characterised by"
+                    ],
+                    [
+                        "astrobiology perspective",
+                        "impact regime",
+                        "defines"
+                    ],
+                    [
+                        "impact regime",
+                        "life on Earth",
+                        "under which became established"
+                    ],
+                    [
+                        "NRC 2007",
+                        "unresolved issue",
+                        "illustration of"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.1 The Bombardment History of the Inner Solar System",
+            "number": 3,
+            "text": "In principle, obtaining an improved crat ering chronology is st raightforward: it \u2018merely\u2019 requires the sampling, and radiom etric dating, of surfaces having a wide range of crater densities, supplemented where possible by dating of impact melt deposits from individual craters and basi ns (St\u00f6ffler, et al., 2006). However, in  practice this is likely to require the implementation of multiple missions to many different sites (see the detailed discussi on by St\u00f6ffler, et al., 2006). These might be robotic missions, ideally involving r over-facilitated mob ility and either in situ  radiometric dating or, preferably, a sample  return capability (e.g. Shearer and Borg, 2006). The possibilities of robotic in situ  radiometric dating techniques have been investigated by a number of workers (e.g. Ta lboys et al., 2009; Trieloff et al., 2010), and such in situ  measurements may be able to address some key questions in lunar science (e.g. verifying the approximate ag es of the youngest lava flows estimated by crater counting). However, th e practicality of performing in situ  radiometric dating with sufficient accuracy to obtain definitive results for chronology has been questioned (e.g. Taylor et al., 2006). Additiona l robotic sample return missions to key localities, such as the South Pole-Aitken basin (as envisaged by the MoonRise proposal; Jolliff et al., 2010) would undoubtedly improve our knowledge in key respects (Cohen and Coker, 2010). However it is likely to prove impractical to target dedicated robotic sample return missions to sufficient locations to fully characterise lunar chronology. Given the enhanced mobility, sample collection efficiency and sample return capacity actually demonstrat ed by the Apollo missions (e.g. Vaniman et al., 1991; Crawford, 2012), it seems clear that obtainin g anything approaching a complete lunar impact chronology will, at the very least, be greatly facilitated by new human missions to the lunar surface.  ",
+            "graph": {
+                "nodes": [
+                    "cratering chronology",
+                    "sampling",
+                    "radiometric dating",
+                    "crater densities",
+                    "impact melt deposits",
+                    "individual craters and basins",
+                    "multiple missions",
+                    "different sites",
+                    "robotic missions",
+                    "rover-facilitated mobility",
+                    "in situ radiometric dating",
+                    "sample return capability",
+                    "lunar science",
+                    "youngest lava flows",
+                    "crater counting",
+                    "accuracy",
+                    "robotic sample return missions",
+                    "key localities",
+                    "South Pole-Aitken basin",
+                    "MoonRise proposal",
+                    "lunar chronology",
+                    "Apollo missions",
+                    "human missions",
+                    "lunar surface"
+                ],
+                "relations": [
+                    [
+                        "cratering chronology",
+                        "sampling",
+                        "requires"
+                    ],
+                    [
+                        "cratering chronology",
+                        "radiometric dating",
+                        "requires"
+                    ],
+                    [
+                        "cratering chronology",
+                        "crater densities",
+                        "requires"
+                    ],
+                    [
+                        "cratering chronology",
+                        "impact melt deposits",
+                        "supplemented by"
+                    ],
+                    [
+                        "cratering chronology",
+                        "individual craters and basins",
+                        "supplemented by"
+                    ],
+                    [
+                        "cratering chronology",
+                        "multiple missions",
+                        "requires"
+                    ],
+                    [
+                        "cratering chronology",
+                        "different sites",
+                        "requires"
+                    ],
+                    [
+                        "robotic missions",
+                        "rover-facilitated mobility",
+                        "involves"
+                    ],
+                    [
+                        "robotic missions",
+                        "in situ radiometric dating",
+                        "involves"
+                    ],
+                    [
+                        "robotic missions",
+                        "sample return capability",
+                        "involves"
+                    ],
+                    [
+                        "in situ radiometric dating",
+                        "lunar science",
+                        "addresses"
+                    ],
+                    [
+                        "youngest lava flows",
+                        "crater counting",
+                        "estimated by"
+                    ],
+                    [
+                        "in situ radiometric dating",
+                        "accuracy",
+                        "questioned"
+                    ],
+                    [
+                        "robotic sample return missions",
+                        "key localities",
+                        "targets"
+                    ],
+                    [
+                        "robotic sample return missions",
+                        "South Pole-Aitken basin",
+                        "targets"
+                    ],
+                    [
+                        "South Pole-Aitken basin",
+                        "MoonRise proposal",
+                        "envisaged by"
+                    ],
+                    [
+                        "lunar chronology",
+                        "robotic sample return missions",
+                        "characterised by"
+                    ],
+                    [
+                        "lunar chronology",
+                        "Apollo missions",
+                        "demonstrated by"
+                    ],
+                    [
+                        "lunar chronology",
+                        "human missions",
+                        "facilitated by"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.2 The structure and composition of the lunar interior",
+            "number": 1,
+            "text": "  As noted in the SCEM Report, the structure of the lunar interior provides fundamental information on the evolution of differe ntiated planetary bodies. The Moon is especially important in this respect beca use, lacking plate te ctonics, its crust and  mantle have remained almost completely isolated from each other for more than 4 billion years. Given the limited volcanic activity on the Moon since its formation, and given the sluggish convection in the mantle of  this single-plate planet, the interior of the Moon should retain a record of early pl anetary differentiation processes that more evolved planetary bodie s have since lost. ",
+            "graph": {
+                "nodes": [
+                    "SCEM Report",
+                    "lunar interior",
+                    "evolution",
+                    "differentiated planetary bodies",
+                    "Moon",
+                    "plate tectonics",
+                    "crust",
+                    "mantle",
+                    "volcanic activity",
+                    "convection",
+                    "single-plate planet",
+                    "interior of the Moon",
+                    "early planetary differentiation processes",
+                    "evolved planetary bodies"
+                ],
+                "relations": [
+                    [
+                        "SCEM Report",
+                        "lunar interior",
+                        "notes on"
+                    ],
+                    [
+                        "lunar interior",
+                        "evolution",
+                        "provides information on"
+                    ],
+                    [
+                        "evolution",
+                        "differentiated planetary bodies",
+                        "occurs in"
+                    ],
+                    [
+                        "Moon",
+                        "plate tectonics",
+                        "lacks"
+                    ],
+                    [
+                        "Moon",
+                        "crust",
+                        "has"
+                    ],
+                    [
+                        "Moon",
+                        "mantle",
+                        "has"
+                    ],
+                    [
+                        "crust",
+                        "mantle",
+                        "isolated from"
+                    ],
+                    [
+                        "Moon",
+                        "volcanic activity",
+                        "has limited"
+                    ],
+                    [
+                        "Moon",
+                        "convection",
+                        "has sluggish"
+                    ],
+                    [
+                        "Moon",
+                        "single-plate planet",
+                        "is a"
+                    ],
+                    [
+                        "interior of the Moon",
+                        "early planetary differentiation processes",
+                        "retains record of"
+                    ],
+                    [
+                        "early planetary differentiation processes",
+                        "evolved planetary bodies",
+                        "lost in"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.2 The structure and composition of the lunar interior",
+            "number": 2,
+            "text": "Despite data from a rudimentary geophysic al network that was set up during the Apollo missions (ALSEP; Apollo Lunar Su rface Experiment Package), keys aspects of the Moon\u2019s interior stru cture, composition, and evoluti on are left unanswered (for a summary, see Wieczorek et al. 2006). The thickn ess of the crust, which is critical for estimating the bulk composition of the Moon, is  debated, with recent estimates being almost half of those made during the A pollo era. The existence of a seismic discontinuity in the mantle 500 km below the surface, which could either be a reflection of primordial differentiation or la ter magmatic processes, is also debated. Four heat flow measurements (at two site s each) were made during Apollo (Langseth et al. 1976) in order constr ain the Moon\u2019s bulk compositi on and thermal evolution, but in retrospect, these were found to be ma de near the edge of an atypical province enriched in heat-producing elements (Jolliff et al., 2000). It is not clear if these unique measurements are representative of either the ancient feldspathic highlands terrane, or of the more volcanically active Procel larum KREEP terrane. Though most data indicate that the Moon has a small molten core (e.g. Weber et al., 2011), neither its size nor composition are well constrained, and the existence of a solid inner core has remained elusive. ",
+            "graph": {
+                "nodes": [
+                    "geophysical network",
+                    "Apollo missions",
+                    "ALSEP",
+                    "Moon\u2019s interior structure",
+                    "composition",
+                    "evolution",
+                    "crust",
+                    "bulk composition of the Moon",
+                    "seismic discontinuity",
+                    "mantle",
+                    "primordial differentiation",
+                    "magmatic processes",
+                    "heat flow measurements",
+                    "Moon\u2019s bulk composition",
+                    "thermal evolution",
+                    "atypical province",
+                    "heat-producing elements",
+                    "ancient feldspathic highlands terrane",
+                    "volcanically active Procellarum KREEP terrane",
+                    "molten core",
+                    "solid inner core"
+                ],
+                "relations": [
+                    [
+                        "geophysical network",
+                        "Apollo missions",
+                        "set up during"
+                    ],
+                    [
+                        "ALSEP",
+                        "Moon\u2019s interior structure",
+                        "used to study"
+                    ],
+                    [
+                        "ALSEP",
+                        "composition",
+                        "used to study"
+                    ],
+                    [
+                        "ALSEP",
+                        "evolution",
+                        "used to study"
+                    ],
+                    [
+                        "crust",
+                        "bulk composition of the Moon",
+                        "critical for estimating"
+                    ],
+                    [
+                        "seismic discontinuity",
+                        "mantle",
+                        "exists in"
+                    ],
+                    [
+                        "seismic discontinuity",
+                        "primordial differentiation",
+                        "could be a reflection of"
+                    ],
+                    [
+                        "seismic discontinuity",
+                        "magmatic processes",
+                        "could be a reflection of"
+                    ],
+                    [
+                        "heat flow measurements",
+                        "Moon\u2019s bulk composition",
+                        "used to constrain"
+                    ],
+                    [
+                        "heat flow measurements",
+                        "thermal evolution",
+                        "used to constrain"
+                    ],
+                    [
+                        "heat flow measurements",
+                        "atypical province",
+                        "made near the edge of"
+                    ],
+                    [
+                        "atypical province",
+                        "heat-producing elements",
+                        "enriched in"
+                    ],
+                    [
+                        "heat flow measurements",
+                        "ancient feldspathic highlands terrane",
+                        "may not be representative of"
+                    ],
+                    [
+                        "heat flow measurements",
+                        "volcanically active Procellarum KREEP terrane",
+                        "may not be representative of"
+                    ],
+                    [
+                        "molten core",
+                        "solid inner core",
+                        "may contain"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.2 The structure and composition of the lunar interior",
+            "number": 3,
+            "text": "Resolving these questions will require making further geophysical measurements. While a few such measurements can be made from orbit (such as the measurement of the Moon\u2019s gravity and magnetic fields; Pu rucker and Nicholas 2010, Zuber et al., 2011), most require geophysical instruments to be placed on, or below, the lunar surface. Key instruments in this respect are seismometers, to probe the structure of the deep interior (e.g. Lognonn\u00e9, 2005; Yama da et al., 2011), heat-flow probes to measure the heat loss from the lunar interior and its spatial variati ons (Langseth, et al., 1976), and magnetometers to measure th e thermal conductivity profile. Such instruments can in principle be placed a nd operated on the lunar surface robotically without direct human intervention, such  as envisaged for the proposed Farside Explorer (Mimoun et al., 2012) and Lune tte (Neal et al.,  2011) missions, the International Lunar Network (Cohen et al., 2010; also http://iln.arc.nasa.gov/ ), and the LunarNet penetrator concept (Smith et al ., 2012). Nevertheless, as discussed below, human deployment of such instrument s would be extremely beneficial.",
+            "graph": {
+                "nodes": [
+                    "geophysical measurements",
+                    "orbit",
+                    "Moon\u2019s gravity",
+                    "magnetic fields",
+                    "lunar surface",
+                    "seismometers",
+                    "deep interior",
+                    "heat-flow probes",
+                    "heat loss",
+                    "lunar interior",
+                    "spatial variations",
+                    "magnetometers",
+                    "thermal conductivity profile",
+                    "robotic operation",
+                    "human intervention",
+                    "Farside Explorer",
+                    "Lunette",
+                    "International Lunar Network",
+                    "LunarNet penetrator concept",
+                    "human deployment"
+                ],
+                "relations": [
+                    [
+                        "geophysical measurements",
+                        "orbit",
+                        "can be made from"
+                    ],
+                    [
+                        "geophysical measurements",
+                        "lunar surface",
+                        "require to be placed on"
+                    ],
+                    [
+                        "seismometers",
+                        "deep interior",
+                        "probe the structure of"
+                    ],
+                    [
+                        "heat-flow probes",
+                        "heat loss",
+                        "measure"
+                    ],
+                    [
+                        "heat-flow probes",
+                        "lunar interior",
+                        "measure heat loss from"
+                    ],
+                    [
+                        "heat-flow probes",
+                        "spatial variations",
+                        "measure"
+                    ],
+                    [
+                        "magnetometers",
+                        "thermal conductivity profile",
+                        "measure"
+                    ],
+                    [
+                        "lunar surface",
+                        "robotic operation",
+                        "can be placed and operated on"
+                    ],
+                    [
+                        "lunar surface",
+                        "human intervention",
+                        "can be placed and operated on"
+                    ],
+                    [
+                        "Farside Explorer",
+                        "lunar surface",
+                        "proposed to be placed on"
+                    ],
+                    [
+                        "Lunette",
+                        "lunar surface",
+                        "proposed to be placed on"
+                    ],
+                    [
+                        "International Lunar Network",
+                        "lunar surface",
+                        "proposed to be placed on"
+                    ],
+                    [
+                        "LunarNet penetrator concept",
+                        "lunar surface",
+                        "proposed to be placed on"
+                    ],
+                    [
+                        "human deployment",
+                        "lunar surface",
+                        "would be beneficial for"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.2 The structure and composition of the lunar interior",
+            "number": 4,
+            "text": "The thermal perturbation caused by an autonom ous lander, which w ould bias the heat flow measurements, could be minimized by pl acing the heat flow experiment far from the landing site (Kiefer, 2012). The emplacem ent of thermal probes several meters below the surface would be greatly facilitate d by a human operated drill, as was aptly demonstrated during the deployment of th e heat flow package by the Apollo astronauts. Moreover, thanks to the human  operated portable magnetometers used during the Apollo 14 and 16 missions, it is known that the surface magnetic fields can vary dramatically, and even change dire ction, over kilometer s cale distances (e.g., Fuller and Cisowski 1987); human-led magne tic surveys over large distances would be invaluable in deciphering the origins of these enigmatic fields. Strong magnetic  fields can help in deflecting harmful solar and cosmic rays, but it is currently difficult to quantify this potential be nefit to human exploration ac tivities in the absence of detailed surface magnetic field map (e.g., Halekas et al., 2010).   ",
+            "graph": {
+                "nodes": [
+                    "thermal perturbation",
+                    "autonomous lander",
+                    "heat flow measurements",
+                    "landing site",
+                    "thermal probes",
+                    "surface",
+                    "human operated drill",
+                    "heat flow package",
+                    "Apollo astronauts",
+                    "human operated portable magnetometers",
+                    "Apollo 14 and 16 missions",
+                    "surface magnetic fields",
+                    "kilometer scale distances",
+                    "magnetic surveys",
+                    "origins of enigmatic fields",
+                    "Strong magnetic fields",
+                    "solar and cosmic rays",
+                    "human exploration activities",
+                    "surface magnetic field map"
+                ],
+                "relations": [
+                    [
+                        "thermal perturbation",
+                        "autonomous lander",
+                        "caused by"
+                    ],
+                    [
+                        "thermal perturbation",
+                        "heat flow measurements",
+                        "bias"
+                    ],
+                    [
+                        "thermal perturbation",
+                        "landing site",
+                        "minimized by placing far from"
+                    ],
+                    [
+                        "thermal probes",
+                        "surface",
+                        "emplaced below"
+                    ],
+                    [
+                        "thermal probes",
+                        "human operated drill",
+                        "facilitated by"
+                    ],
+                    [
+                        "heat flow package",
+                        "Apollo astronauts",
+                        "deployed by"
+                    ],
+                    [
+                        "human operated portable magnetometers",
+                        "Apollo 14 and 16 missions",
+                        "used during"
+                    ],
+                    [
+                        "surface magnetic fields",
+                        "kilometer scale distances",
+                        "vary over"
+                    ],
+                    [
+                        "surface magnetic fields",
+                        "magnetic surveys",
+                        "known by"
+                    ],
+                    [
+                        "magnetic surveys",
+                        "origins of enigmatic fields",
+                        "help in deciphering"
+                    ],
+                    [
+                        "Strong magnetic fields",
+                        "solar and cosmic rays",
+                        "deflect"
+                    ],
+                    [
+                        "Strong magnetic fields",
+                        "human exploration activities",
+                        "potential benefit to"
+                    ],
+                    [
+                        "human exploration activities",
+                        "surface magnetic field map",
+                        "need for"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.2 The structure and composition of the lunar interior",
+            "number": 5,
+            "text": "A human return to the lunar surface would therefore benefit geophysical investigations by the additional payload capacity, operational flexibility, and long traverses that are inhere nt in human missions (e.g.  Spudis, 2001; Garvin, 2004; Crawford, 2004).  ",
+            "graph": {
+                "nodes": [
+                    "human return",
+                    "lunar surface",
+                    "geophysical investigations",
+                    "additional payload capacity",
+                    "operational flexibility",
+                    "long traverses",
+                    "human missions",
+                    "Spudis, 2001",
+                    "Garvin, 2004",
+                    "Crawford, 2004"
+                ],
+                "relations": [
+                    [
+                        "human return",
+                        "lunar surface",
+                        "to"
+                    ],
+                    [
+                        "human return",
+                        "geophysical investigations",
+                        "benefit"
+                    ],
+                    [
+                        "geophysical investigations",
+                        "additional payload capacity",
+                        "benefit from"
+                    ],
+                    [
+                        "geophysical investigations",
+                        "operational flexibility",
+                        "benefit from"
+                    ],
+                    [
+                        "geophysical investigations",
+                        "long traverses",
+                        "benefit from"
+                    ],
+                    [
+                        "human return",
+                        "human missions",
+                        "inherent in"
+                    ],
+                    [
+                        "Spudis, 2001",
+                        "human return",
+                        "reference"
+                    ],
+                    [
+                        "Garvin, 2004",
+                        "human return",
+                        "reference"
+                    ],
+                    [
+                        "Crawford, 2004",
+                        "human return",
+                        "reference"
+                    ]
+                ]
+            }
+        },
+        {
+            "section": "2.3 The diversity of lunar crustal rocks",
+            "number": 1,
+            "text": " The SCEM Report highlighted the fact that key planetary processes are manifested in the diversity of lunar crusta l rocks. Quantifying and unders tanding this diversity will require detailed chemical and mineralogical analysis of rocks and soils from as yet unsampled regions of the lunar surface.  In  particular, no samples have yet been returned from the polar regi ons or the far-side,  thus greatly limiti ng our knowledge of lunar geological processes. Although, sta tistically, many of the 160 or so known lunar meteorites ( http://meteorites.wustl.edu/luna r/moon_meteorites_list_alpha.htm ) must originate from these areas, and provide an excellent statistical sampling of the lunar crust (e.g. Korotev, 2005), the value of these materials is limited by a lack of knowledge of their source regions and thus geological context. "
+        },
+        {
+            "section": "2.3 The diversity of lunar crustal rocks",
+            "number": 2,
+            "text": "The diversity of lunar crustal materials ha s been demonstrated most recently by new results from orbital remote sensing inst ruments on Kaguya, Chandrayaan-1 and LRO. These include outcrops of pure anorthos ite which may represent pristine magma ocean flotation cumulates (Ohtake et al ., 2009); olivine rich outcrops which may  sample mantle material (Yamamoto et al ., 2010); and spinel-rich (Sunshine et al., 2010) and silica-rich (Greenhagen et al. 2010;  Glotch et al. 2010; Jolliff et al., 2011) lithologies not represented in the existing samp le collection. It is important to confirm the interpretation of  the remote-sensing data as no \u2018ground-truth\u2019 has yet been obtained for any of these localities. It is also important to obtain measurements of minor and trace elements in these materi als which cannot be detected by orbital remote-sensing instruments, but which are es sential to discriminate between different suggested origins and formation mechanisms."
+        },
+        {
+            "section": "2.3 The diversity of lunar crustal rocks",
+            "number": 3,
+            "text": "Sample return missions to currently unsampl ed regions would be the preferred means of furthering our knowledge of lunar ge ological diversity. A lthough an alternative would be to make robotic in situ  geochemical measurements, as proposed for both the Farside Explorer (Mimoun et al., 2012) a nd LunarNet (Smith et al., 2012) mission concepts, a full understanding of  geological processe s requires the ab ility to measure the isotopic composition and concentrations of minor and trace elements at levels that may be beyond the capabilities of in situ  robotic instruments. In addition, mobility is crucially important if the local geological dive rsity in the vicinity of a landing site is to be properly characterized. As was the case for determining surface ages (Section 2.1), and for essentially the same reasons, characterizing lunar ge ological diversity would greatly benefit from a renewed hu man presence on the lunar surface provided that such missions were targeted at sites carefully chosen with this objective in mind. "
+        },
+        {
+            "section": "2.4 Volatiles at the lunar poles",
+            "number": 1,
+            "text": " As noted in the SCEM Report,  the lunar poles potentially bear witness to the flux of volatiles present in the inner Solar System throughout much of Solar System history.  In 1998 the Lunar Prospector  neutron spectrometer f ound evidence of enhanced concentrations of hydrogen at the luna r poles (Feldman et al., 1998), which was widely interpreted as indicating the presence  of water ice in the floors of permanently shadowed polar craters. Radar observations ha ve also been used to infer the presence of ice in such regions (e.g. Spudis et al., 2010; but see Fa et al. 2011 for an alternative interpretation). The presence of water i ce in permanently shadowed craters was supported by the LCROSS impact experiment , which found a water ice concentration of 5.6 \u00b1 2.9 % by weight  in the target regolith  at the Cabeus crater  (Colaprete et al., 2010). It seems likely that this  water is ultimately derived from the impacts of comets (and/or water-rich aste roids) with the lunar surface,  although solar wind implantation and endogenic sources might also contribut e (for a brief review see Anand, 2010). However, the inferred quantity of water is sensitive to the calibration of the spectrometers on the LCROSS probe and a numb er of other assumptions (Colaprete et al. 2010). Ideally, therefore, this result needs to be confirmed by in situ  measurements.  "
+        },
+        {
+            "section": "2.4 Volatiles at the lunar poles",
+            "number": 2,
+            "text": "In addition to ice in permanently shadow ed craters, infra-red remote-sensing observations have found evidence for hydrated  minerals, and/or adsorbed water or hydroxyl molecules, over large areas of the high latitude (but not permanently shadowed) lunar surface (Piete rs et al. 2009; Sunshine et al., 2009; Clark, 2009). It is hypothesised this OH/H2O, which cannot exist as ice, is produced by the reduction of iron oxides in the regol ith by solar wind-implanted hydrogen, with OH/H 2O being retained in the relatively cold high-latitude regolith. It is possible that, over time, this high-latitude OH/H 2O may migrate to polar cold trap s and contribute to ice deposits there (Crider and Vondrak 2002) , and this scenario is s upported by observations of  water molecules in the lunar exosphere  made by the Moon Impact Probe (MIP) released by Chandrayaan-1 (S ridharan et al., 2010).  "
+        },
+        {
+            "section": "2.4 Volatiles at the lunar poles",
+            "number": 3,
+            "text": "As discussed by Anand (2010) and Smith  et al. (2012), obtaining improved knowledge of the presence, composition, and abundance of water (and other volatiles) at the lunar poles is impo rtant for several reasons:   \uf0b7 It is probable that the ice in perman ently shadowed regions is ultimately derived from comet and/or asteroid imp acts. Even though the original volatiles will have been considerably reworked, it is likely that some information concerning the composition of the original sources will remain. Among other things, this may yield astrobiologically  important knowledge on the role of comets and meteorites in delivering volat iles and pre-biotic  organic materials to the terrestrial planets (Chyba and Sagan 1992; Pierazzo and Chyba 1999).    The processes involved in the creation, re tention, migration, and destruction of OH and H2O across the surface of the Moon are likely to be common on other air-less bodies, and quantifying them on th e Moon will give us better insight into the volatile history and potential av ailability of water elsewhere in the inner solar system.    \uf0b7 Lunar polar ice deposits are of consider able astrobiological interest, even if they do not retain vestigial information concerning their ultimate sources. This is because any such ices will have b een subject to irradiation by galactic cosmic rays and, as such, may be e xpected to undergo organic synthesis  reactions (e.g. Lucey, 2000). Analogous reactions may be important for producing organic molecules in the icy ma ntles of interstella r dust grains, and on the surfaces of outer Solar System satellites and comets (e.g. Bernstein et al., 2002; Elsila et al., 2007), but the lunar poles are much more accessible than any of these other locations.   \uf0b7 The presence of water ice at the lunar poles, and even hydrated materials at high-latitude but non-shadowed localitie s, could potentially provide a very valuable resource in the context of futu re human exploration of the Moon (e.g. Anand et al., 2012; this issue). "
+        },
+        {
+            "section": "2.4 Volatiles at the lunar poles",
+            "number": 4,
+            "text": "Confirming the interpretation of the remo te sensing measurements, and obtaining accurate values for the concentration of polar ice and high latitude surficial OH/H2O will require in situ  measurements by suitably instru mented and landed spacecraft. The requirements for permanently shadowed e nvironments and high latitude, but non-permanently shadowed, environments are ra ther different. The conditions within permanently shadowed areas, where temperat ures can be below 40 K (Paige et al., 2010), are not readily amenable to human expl oration or even robotic vehicles (unless these are equipped with a nuc lear power source or long- lived batteries capable of operating at very low temperatures). For these environments a penetrator-based system, such as envisaged in the MoonLI TE and LunarNet mission concepts (Gao et al., 2008; Smith et al., 2012), may be a possibility. On the other hand, non-permanently shadowed polar localities are amenable to solar-powered robotic exploration, and proposals such as ESA\u2019 s Lunar Lander (Carpenter et al., 2010; 2012), and \u2018Lunar Beagle\u2019 (Gib son et al., 2010), would provide valuab le initial  measurements of volatiles in these e nvironments. In the longer term, a full characterization of polar volat iles, as for other aspects of lunar geology, would benefit from the increased mobility and flexib ility that would be provided by human exploration (which would of c ourse be facilitated at the po les if exploita ble quantities of volatiles prove to be present). "
+        },
+        {
+            "section": "2.5 Lunar volcanism",
+            "number": 1,
+            "text": " The SCEM Report identified the charaterizat ion of lunar volcanism as a high lunar science priority because of  the window it provides into the thermal and compositional evolution of the lunar mantle. Since the SCEM Report was published new remote sensing observations have indicated that l unar volcanism is even more diverse than previously thought, with the identificati on of probable areas of non-mare silicic volcanism on both the near- and far-sides (G lotch et al., 2010; Jo lliff et al., 2011). There is no doubt that these areas would benefit from in situ  investigation. However, from a lunar exploration perspective, this is  just one aspect of the wider requirement to sample a diverse set of lunar rocks (Section 2.3), and th e implications for exploration capabilities ar e essentially the same. "
+        },
+        {
+            "section": "2.6 Impact processes",
+            "number": 1,
+            "text": " Impact cratering is a fundamental planetar y process, an unders tanding of which is essential for our knowledge of planetary evolution. Yet our knowledge of impact processes is based on a combination of theoretical modelling, small-scale laboratory hyper-velocity impact experiments, and fiel d geological studies of generally poorly-preserved terrestrial impact craters (Melosh, 1989). The Moon provides a unique record of essentially pristine impact crater s of all sizes (from mi cron-sized pits up to  1000-km impact basins). Field studies, combining sample collection (including drill cores) and in situ  geophysical studies (e.g. active se ismic profiling), of the ejecta blankets and sub-floor struct ures of pristine lunar crater s of a range of sizes would greatly aid in our understandi ng of the impact cratering process. As discussed by Crawford (2004), the implied requirements  for mobility, deployment of complex geophysical instruments, sub-surface drilling, and sample return capacity are likely to outstrip the capabilities of pur ely robotic exploration and would be greatly facilitated by a human exploration programme. "
+        },
+        {
+            "section": "2.7 Regolith processes",
+            "number": 1,
+            "text": " The SCEM Report noted that the luna r surface is a natural laboratory for understanding regolith processes and space w eathering on airless bodies throughout the Solar System. In addition to their scientific interest, better characterisation of the composition, volatile content and mechanical properties of l unar regolith will also be important for planning In-Situ Resource Util isation (ISRU) applications in support of future lunar exploration activ ities (e.g. Anand et al., 2012; Schwandt et al., 2012). As noted in Section 2.4, the nature of relatively  cold high-latitude regoliths, which have never been sampled or studied in situ , and which may contain a volatile component, are of particular interest. Many of the properties of both high- and low-latitude regoliths could be investigated  by appropriate instruments on robotic soft-landers such as ESA\u2019s proposed Lunar Lander (Carpenter et al., 2012) or  penetrators such as the LunarNet concept (Smith et al., 2012).   "
+        },
+        {
+            "section": "2.7 Regolith processes",
+            "number": 2,
+            "text": "Another important aspect of the lunar regolith  is the record it contains of early solar and Solar System history. Studies of Apollo  samples have revealed that solar wind  particles are efficiently implanted in the l unar regolith (McKay et al., 1991; Lucey et al., 2006), which therefore contains a record  of the composition and evolution of the Sun throughout Solar System history (e.g. Wi eler et al., 1996). Recently, samples of the Earth\u2019s early atmosphere appear to have been retrieved from lunar regolith samples (Ozima et al., 2005; 2008), and it has been suggested that samples of Earth\u2019s early crust may also be preserved there in the form of terrestrial meteorites (Guti\u00e9rrez,, 2002; Armstrong et al., 2002; Crawford et al., 2008; Armstrong, 2010). Meteorites derived from elsewhere in the Solar System will likely also be found on the Moon, preserving a record of the dynamical evolution of small bodies throughout Solar System history (Joy et al., 2011; 2012). Last but not least, the lunar regolith may contain a record of galactic events, by preserving the sign atures of ancient galactic cosmic ray (GCR) fluxes, and the possible accumulation of interste llar dust particles during passages of the Sun th rough dense interstellar clo uds (Crozaz et al., 1977; McKay et al., 1991; Crawford  et al., 2010). Collectivel y, these lunar geological records would provide a window into the early evolution of  the Sun and Earth, and of the changing galactic environment of the So lar System, that is unlikely to be obtained in any other way. Much of this record ha s clear astrobiological implications, as it relates to the conditions under which lif e first arose and evolved on Earth.  "
+        },
+        {
+            "section": "2.7 Regolith processes",
+            "number": 2,
+            "text": "From the point of view of accessing ancien t Solar System history it will be desirable to find layers of ancient regoliths ( palaeoregoliths ) that were formed and buried billions of years ago, and thus protected fr om more recent geological processes, (e.g. Spudis, 1996; Crawford et al., 2010; Fagents et al., 2010; see Figure 1 of Crawford et al., 2010 for a pictorial representation of the process). Locating and sampling such deposits will likely be an important objectiv e of future lunar expl oration activities, but  they will not be easy to access.  A lthough robotic sampling missions might in principle be able to access palaeoregoliths at  a limited number of favorable sites (for example where buried layers outcrop in the walls of craters or rilles), fully sampling this potentially rich geological archive of Solar System history will probably require the mobility and sample return capabil ities of human exploration (Spudis, 2001; Garvin, 2004; Crawford, 2004) . The specific requirement s of a human exploration architecture capable of locating and sampling palaeoregolith deposits have been described elsewhere (Crawford et al., 2010). "
+        },
+        {
+            "section": "2.8 Atmospheric and dust environment",
+            "number": 1,
+            "text": " The final broad lunar science area discusse d by the SCEM Report re lated to studies of the lunar atmosphere and near-surface dust envi ronment. Of particular interest is the need to characterise the composition of th e tenuous lunar exosphere (which has a variable density in the range 105 \u2013 107 atoms or molecules cm-3; Lucey et al., 2006), and its interaction with the surface regolith. Th is in turn will help constrain models of the lunar volatile budget discussed in Se ction 2.4. The extent to which transient releases of gasses into the atmosphere may occur is also of interest, as this may correlate with on-going low-le vel geological activity (C rotts, 2008). The surface dust environment, and especially the exte nt to which dust grains may become electrostatically charged and transported, is  another important research topic (e.g. Gr\u00fcn et al., 2011; Pines et al., 2011; Horanyi  and Stern, 2011), not least because of the potential hazards mobile  dust may pose to scientific instruments and human operations on the surface (NRC, 2007; Loft us et al., 2010; Linnarsson et al., 2012). Some of the processes involved are likely to be common on other air-less bodies, and  quantifying them on the relati vely accessible lunar surface will therefore give us better insight into regolit h/exosphere interactions throughout the Solar System. "
+        },
+        {
+            "section": "2.8 Atmospheric and dust environment",
+            "number": 2,
+            "text": "Although some aspects of these investigations  can be performed fr om lunar orbit (for example relevant observations will be perf ormed by the Lunar Atmosphere and Dust Environment Explorer, L ADEE, mission due for launc h in 2013), more detailed studies of the lunar dust and plasma environment will require in situ  surface measurements. These may be provided by suita bly instrumented robotic landers, such as ESA\u2019s proposed Lunar Lander mission (Car penter et al., 2012). However, it is important to note that the landed missions ha ve the potential to significantly disturb the tenuous lunar atmospheric environment, a nd that this will be especially true of human operations (NRC, 2007). It is therefore scientifically highly desirable that the lunar atmosphere/exosphere be properly char acterized by minimally invasive robotic probes before human operations are resumed on the lunar surface. "
+        },
+        {
+            "section": "3.1 Life sciences and astrobiology",
+            "number": 1,
+            "text": " The Moon is a potentially va luable site to address a range of life science and astrobiology questions (e.g. Crawford, 2006; Gronstal et al., 2007; Cockell 2010; Crawford and Cockell, 2010). These questi ons broadly fall into three categories:      "
+        },
+        {
+            "section": "3.1.1 Research that enhances our understanding of the habitability of the Earth through time",
+            "number": 1,
+            "text": "  As the Earth's closest celestial neighbour the Moon retains a uni que record of the inner Solar System environment under which life evolved on our planet. The metamorphism and alteration of terrestria l Archaean (i.e. >2.5 Gyr old) rocks and their organic microfossils limits the quan tity of material that can be used to understand the nature of early life on the Ea rth. The possibility th at rocks ejected by asteroid and comet impacts on the early Earth may have landed on the Moon provides a tantalising possibility for a lunar surface source of early  Earth material (Guti\u00e9rrez,, 2002; Armstrong et al. 2002; Crawford et  al., 2008; Armstrong, 2010). The quantity of this material is predicted to be as much as 200 kg/km2. The Moon may also have collected material ejected from other pl anetary bodies in the Solar System. Early rocks from Mars and Venus, both of wh ich have early histories of enormous biological interest, might also exist on the Moon (Gladman et al. 1996; Armstrong et al. 2002), although the quantity and distribution a nd condition of this material is more uncertain. In addition, the l unar regolith, and especially buried palaeoregoliths (Spudis 1996), likely contains a record of solar wind flux (and thus solar luminosity) and galactic cosmic rays (and thus the gala ctic environment of the solar system) throughout solar system history (Crawford et al., 2010; Fagents et al., 2010). Much of this record will be di rectly relevant to understanding th e past habitability of our own planet.     "
+        },
+        {
+            "section": "3.1.2 Research that enhances our understanding of the possibility of life elsewhere in the Universe",
+            "number": 1,
+            "text": "Although the Moon has, almost certainly, ne ver supported any life of its own, lunar exploration will nevertheless inform our sear ches for life elsewhere. This includes a record of volatile fluxes in the inne r solar system (NRC , 2007; Anand, 2010), and information on the survival of both micr oorganisms and organic matter in extreme planetary conditions.  "
+        },
+        {
+            "section": "3.1.2 Research that enhances our understanding of the possibility of life elsewhere in the Universe",
+            "number": 2,
+            "text": "The impacts that occurred into the Moon in  its early history included material in addition to terrestrial rock s, such as cometary ma terial and ch ondritic and carbonaceous meteorites (e.g. Joy et al., 2012). Pr otected either in the subsurface or in permanently shadowed craters (Seife, 2004; Vasavada et al., 1999), these might provide insights into the inventory of volatile  and/or organic material that penetrated the early inner Solar System, and what quantity may still do so today. Insofar as these organics might have provided an exogenous source of prebiotic organics necessary to kick-start life on the Earth, investiga ting organics on the Moon has important contributions to make to understanding the origin of life on the Earth. Indigenous organic processing on the Moon may also yield insights into the chemical pathways of alteration, and fate, of organics in  interplanetary space (e.g., Lucey, 2000). "
+        },
+        {
+            "section": "3.1.2 Research that enhances our understanding of the possibility of life elsewhere in the Universe",
+            "number": 3,
+            "text": "In addition, the lunar environment contai ns the crashed remains of unsterilized spacecraft. The bacterial spores  that these craft may contain could be collected and examined for DNA and other biochemical damage, as well as examined for their viability. Human or robotic explorers could be developed to collect these organisms  for study on the Moon or return to the Earth. The organisms returned from these craft would answer many questions about the l ongevity of microorganisms in the space environment that will inform fields as di verse as planetary protection, for example allowing for an assessment of how long contaminant organisms survive on other planetary surfaces (Rummel, 2004; Glavin et al., 2004, 2010) and biogeography, for example, showing whether organisms can su rvive the conditions in interplanetary space and the impact conditions of landing on another planetary surface after being transferred from one planet to another (Clar k, 2001; Horneck et al.,  2001; Mastrapa et al., 2001; Burchell, 2004; Cockell et  al., 2007; Nicholson et al., 2005).   "
+        },
+        {
+            "section": "3.1.3 Research that advances the human exploration and settlement of space",
+            "number": 1,
+            "text": "The space environment is hostile to life and includes hard vacuum, high radiation (both UV and ionizing radiation) , altered gravity regimes, th e presence of biologically and mechanically aggravating dust, and difficulties in acquiring liquid water and gases to breathe (e.g. Horneck, 1996; Horneck et al., 2003). The Moon is therefore a testing ground for technological principles a nd approaches for dealing with the major environmental parameters that affect life in outer space. For example, the Moon can be used to investigate whether the effects of gravity are linear or whether there are critical threshold in effect (e.g. Cockell, 2010), the biological eff ects of the radiation environment beyond the Earth\u2019s magnetosphe re, and the toxicity  of lunar dust (Carpenter et al., 2010; Loftus et  al., 2010; Linnar sson et al., 2012). "
+        },
+        {
+            "section": "3.1.3 Research that advances the human exploration and settlement of space",
+            "number": 2,
+            "text": "Organisms could also be taken to the lunar surface and us ed to carry out investigations in situ  using surface laboratories (as pr oposed for ESA\u2019s Lunar Lander; Carpenter et al., 2010). Microorganisms, plants and animals could be used to investigate a variety of ques tions, including the cumulative effects of space conditions (Mileikowsky et al., 2000; Blakely, 2000; Clar k, 2001; Brenner et al., 2003; Giusti et al., 1998; Horneck et al., 2003; Stein a nd Leskiw ,2000; Zayzafoon et al., 2005; Carpenter et al., 2010) and their use in life support systems (Tamponnet 1996; Sadeh and Sadeh, 1997; Bluem and Paris, 2001; He nrickx et al., 2006). These experiments would yield new insights into the evoluti on of organisms in the space environment, the possibility of microbial, plant, and cult ivated crop production, a nd the potential for healthy human and animal reproduction in space.  "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 1,
+            "text": " Acceleration produced by the force of gravity is an omnipresent factor that modulates many biological processes (Cl\u00e9ment and Sl enzka, 2006). Historically, much of the space biomedical science focus has b een upon whole-body physiology, reflecting the immediate challenge of maintaining astr onaut (and thus mi ssion) functionality (Garshnek, 1989; Williams, 2003). Most physiological systems are known to progressively \u2018adapt\u2019 to life in micrograv ity (Nicogossian et al ., 1994), however many encounter problems upon re-exposure to a gr avitation vector. Alterations in spatial orientation (Lipshits et al., 2005) and sens ory-motor function (e.g. Kalb and Solomon, 2007; Souvestre et al., 2008) are acutely challenging but re-adapt rapidly, whereas cardiovascular (Hargens and Richards on, 2009; Hughson, 2009) and musculoskeletal system (Narici and de Boer 2011) de-cond itioning can precipita te chronic health issues as well as imparing astronaut operati ons. A raft of countermeasures including  various exercise regimes, nutrition and behavioural support are employed in space missions (Convertino, 2002; Cavanagh et al.,  2005), but these fail to entirely ameliorate microgravity-induced de-condi tioning. As a consequence, the maximum \u2018recommended\u2019 stay on the International Sp ace Station (ISS) is currently 6 months (Williams et al., 2009).  "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 2,
+            "text": "Partly, this failure relates to the fact that just how gravity affects biological processes is largely unknown, at the level of an organism , a system, or of an individual cell. In fact, whilst life appears well adapted to gravity today, it presented a major challenge to emergence from the prehistoric aquatic  environment. Gravitropism (a plant growth\u2019s sensitivity to gravity) has been  well documented since Darwin, and it is highly likely that gravity also has an important role in the regulation of animal cells.  In fact, intra-cellular force sens ors (sensitive to physical pr essure and structural strain) have been proposed as part of standard cellular architecture (W ayne et al, 1992).  "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 3,
+            "text": "Even minor alterations in the physical force environment (Klaus, 1998) may have significant downstream effects. An abnormal gravity environment is  likely to inhibit sedimentation, equalising molecular (and t hus affecting electro-chemical gradients) and organelle distribution, and modify cyto skeletal activity and gene transcription (Cogoli and Cogoli-Greuter, 1997). Such processes may in part explain observed gravity-dependent changes in cellular growth, proliferati on and regeneration (Sonnenfeld and Shearer, 2002; Borchers, et  al., 2002), organisation (Vico et al., 2000), and healing (Davidson et al., 1999; Ra dek et al., 2008). For instance, reduced lymphocyte proliferation, delayed bone cell differentiation (Hughes-Fulford and Lewis, 1996), and retardation of pre- natal (e.g. Bruce, 2003) and post-natal  development (e.g. Ronca and Alberts, 1997) and locomotion (Walton, 1998) have all been observed in a number of animal models in microgravity. "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 4,
+            "text": "Monitoring human adaptation to prolonged exposure to partia l gravity, such as exists on the Moon, may offer significant insights in to vestibular disorders (Cl\u00e9ment et al., 2005) and a range of processe s beyond associated in agei ng (Vernikos and Schneider, 2010), disuse pathology (Edgerton et al ., 2000; Elmann-Larsen and Schmitt, 2003) and lifestyle conditions such as the meta bolic syndrome and cardiovascular disease. The lunar partial gravity model would s upplement the knowledge accrued by \u2018long duration\u2019 ISS microgravity expo sure, by adding a point at 1/6th g from which to investigate gravity dose-dependence (e.g. Cockell, 2010). In addition, by providing a more tightly controlled environment in te rms of the nutritional, medical (including remote monitoring) and exercise counter measure support, the Moon would offer an opportunity to test the efficacy of counter measure and/or therapeutic approaches within otherwise \u2018healthy\u2019  and well motivated indi viduals (e.g. Green, 2010). The lunar partial gravity is likely to offer some protection to de-conditioning that will likely not only facilitate longe r operational durations than th e ISS, but also has greater relevance and applicability to life on Earth than the microgravity environment of the ISS. There would therefore be the opportunity to understa nd the physiological effects of gravity that are not possible within e ither a 1-g or a microgravity environment. Such studies were beyond the scope of the limited duration Apollo missions, but would be facilitated by longer-ter m human operations on the Moon.  "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 5,
+            "text": "Finally, there would be much to learn about  life support (e.g. bio-regenerative food, breathable air, and water cl osed-loops; Ekhart, 1996), and medical support provision,  from human operations in a lunar base beyond research into partial gravity effects. Examples include individualised medicine  (Kalow 2002), carcinogenesis (Rykova et al., 2008), viral virulence (Wilson et al., 2007), robotic surgery (Cermack, 2006), telemetric medical monitoring (Grigoriev and Egorov, 1997), and even basic health care delivery due to the severe resource a nd technical assistance limitations (Mortimer et al., 2004). In contrast to the popular myt h, space biomedical devices must be simple (to operate and repair), r obust, compact, light, low consumers, non-invasive and multi-faceted (e.g. diagnostic and interven tional ultrasound; Ma et al., 2007) and ideally preventative (Thirsk et al., 2009). Such characteristics possess value well beyond space applications, e.g. in  remote societies and disast er zones, and could also facilitate de-centralised car e provision within the developed world offering efficacy and cost-effectiveness benefits (Williams, 2002).   "
+        },
+        {
+            "section": "3.2 Human physiology and medicine",
+            "number": 6,
+            "text": "It follows that while incorporating humans in future lunar exploration may add to the associated risks and challenges, it woul d radically enhance both its scientific capabilities and the resulting benefits (inclu ding potential biomedical benefits) to society. "
+        },
+        {
+            "section": "3.3 Fundamental physics",
+            "number": 1,
+            "text": " Although not a major driver for lunar explor ation, it is recognized  that a number of research fields in the area of fundamental  physics may benefit from the ability to place scientific instruments on the lunar su rface. These include tests of General Relativity through improved lunar laser ranging measurements (e.g. Livio, 2006; Burns et al., 2009; Currie et al., 2010), tests of quantum en tanglement over large  baselines (Schneider, 2010), and searches for strange quark matter (Banerdt, et al., 2007; Han et al., 2009).  "
+        },
+        {
+            "section": "4.1 Why Astronomy?",
+            "number": 1,
+            "text": " A natural area to use the Moon as a platform  for performing scien tific experiments is astronomy (for summaries see, e.g., Burn s et al., 1990; Livio, 2006; Crawford and Zarnecki, 2008; Jester and Falcke, 2009). Almost the en tire electromagnetic spectrum is currently being used to  study the universe from radi o to high-energy gamma ray emission. Different frequencies typically rela te to different physical processes, and consequently the universe looks markedly different in optical, infrared, or radio wavelengths. Hence, during the last century modern telescopes have diversified and evolved enormously, fundamentally changing our view of the universe and our place therein. Due to their ever increasing sensitiv ity, which allows one to peer deeper and deeper into the earliest phases of the cosmos, the requirements for telescope sites have become more and more extreme: one simply needs the best possible observing conditions. The most important factors he re are light pollution (at the relevant frequencies) and distortions due  to the atmosphere. Light po llution is generally caused by any form of civilization, thereby pushing observatories to more and more remote locations. Detrimental effects of the atmosphere include: \uf0b7 temporary effects such as clouds and water vapour, which temporarily absorb and disturb optical or high- frequency radio radiation,  \uf0b7 turbulence in the ionosphere or troposphe re, which distorts radio or optical wave fronts, thereby severely degrading the image quality,   \uf0b7 air glow, which can overpower se nsitive infrared observations,  \uf0b7 total absorption of radiati on, e.g., of very low-frequency radio, infrared, X-ray, and gamma-ray radiation. "
+        },
+        {
+            "section": "4.1 Why Astronomy?",
+            "number": 2,
+            "text": "The best \u2013 and in many cases only \u2013 remedy is to observe from dry deserts, high mountains, or from space. Two of the mo st remote, but also most exquisite, astronomical sites on Earth are the Atacama desert and Antarctica. The former currently hosts some of the world\u2019s larges t telescopes, including ESO\u2019s 8m-class Very Large Telescopes (VLT), the ALMA sub-mm-wav e radio telescope, and in the future probably also the ~40 m diameter European  Extremely Large Te lescope (E-ELT; see http:// www.eso.org). A century after its init ial exploration, Antarc tica now also hosts a number of somewhat smaller telescopes (e.g., the South Pole Telescope, Carlstrom et al., 2011) as well as the giant IceCube detector. IceCube is the world\u2019s largest neutrino observatory, using the ice itself as detector mate rial (e.g., Abbasi et al., 2011).  "
+        },
+        {
+            "section": "4.1 Why Astronomy?",
+            "number": 3,
+            "text": "The Moon would be a logical next step in th e quest for the most suitable sites to be used for astronomy. An important secondary important factor in  selecting a site, however, is the available infrastructure: How accessible is the site for people and material? How does one obtain power and how  good is the data connection? Already for Antarctica this poses serious constraints, and it took a long time until this continent became useful for scientific exploi tation. It is needless to say that the Moon is even more difficult to reach. Hence, lik e Antarctica, any signi ficant exploitation of the Moon requires a developed infrastructure  \u2013 something that would likely become available only in conjunction with human exploration of the Moon. Even then one has  to assess how unique and useful the Moon is for astronomy in the first place. After all, the International Space Station (ISS), while  having a well-developed infrastructure available, is not used for telescopes; its small, relatively unstable platform in low-Earth orbit (LEO) is simply too poor a tele scope site to be competitive. Hence, the vast majority of space-based telescopes have been associated with free-flying satellites. Of course, some of these sa tellites, most notab ly the Hubble Space Telescope (HST), benefited from the heavy lift capabilities of th e Space Shuttle and the servicing possibilities the human sp ace flight program offered (NRC, 2005). Indeed, it is interesting to note that th e one human-serviced space telescope, HST, is in fact the most productive of all astronomy space missions even many years after its launch (see Tables 4 and 6 in Trimble and Ceja, 2008; HST produced 1063 papers in the time frame 2001-2003, compared to 724 fo r Chandra, the next most productive). "
+        },
+        {
+            "section": "4.1 Why Astronomy?",
+            "number": 4,
+            "text": "So, the question to ask is: Which type of  telescopes would unique ly benefit from a lunar surface location? This question has been addressed in a couple of workshops and scientific roadmaps in recent years (Falcke et al., 2006; Livio, 2006; NRC, 2007; Crawford and Zarnecki, 2008; Worms et al., 200 9). In the following section we try to synthesize these findings.  "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 1,
+            "text": " There is a wide consensus that a low-freque ncy radio telescope (i .e. a radio telescope operating at frequencies below 30-100 MHz) would be the hi ghest priority (e.g., Jester and Falcke, 2009; Burns et al., 2009). Radio waves at these freque ncies are seriously distorted by the Earth\u2019s ionosphere and completely absorbed or reflected at frequencies below 10-30 MHz. Hence, th e low-frequency universe is the last  uncharted part of the electromagnetic spec trum, and a lunar infrastructure would greatly benefit its exploration. Of partic ular relevance for science here is the investigation of the \u201cdark ages\u201d of the un iverse. This is the epoch several hundred million years after the big bang, but before th e formation of the first stars and black holes, when the cosmos was mainly filled with dark matter and neutral hydrogen. This epoch contains still pristine informati on of the state of the big bang and can essentially only be observed through radi o emission from atomic hydrogen red-shifted to several tens of MHz. Th e best location to study this treasure trove of cosmology (Loeb and Zaldariaga 2004) would indeed be on the lunar far-side.   "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 2,
+            "text": "Other science topics of interest fo r a lunar radio telescope include:  \uf0b7 A high-resolution map of the univers e and a general inventory of low-frequency radio sources \u2013 ground-base d maps around 10 MHz are very poor compared to any other wavelength due to  the effects of the ionosphere (Cane and Whitham 1977);  \uf0b7 Search for and study of radio em ission from planets and exoplanets (Grie\u00dfmeier et al. 2007);   \uf0b7 Investigation of the local plasma  bubble around our solar system; and  \uf0b7 Radio-detection of ultra-hi gh energy cosmic rays. In fact the Moon itself is already now being used as a detector for ultra-high energy  neutrinos (Gorham  et al. 2004, Buitink et al. 2010, Jaeger et al. 2011) and cosmic rays (ter Veen et al. 2010) with the help  of radio telescopes.   More details on the va rious science cases, an extensive review of past studies, and a summary of relevant observi ng constraints can be found in Jester and Falcke (2009). "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 3,
+            "text": "Low-frequency telescopes are currently being built using a network of many, relatively simple dipole-like antennas (e.g., the LOFAR telescope; van Haarlem et al. 2012). The individual antennas ar e digitally connected to fo rm a large interferometer (a \u201cphased array\u201d), which act s as one large, st eerable telescope dish, but without any moving parts. These radio antennas can be made robust and lightweight to transport many of them into space, while the Moon\u2019 s gravity and surface would keep them fixed relative to each other. Moreover, if placed at the far-side of the Moon, the Moon itself would shield the telescope from any radio pollution (also called radio frequency interference, RFI) originating from Earth. This  RFI can be either of man-made origin or due to natural Auroral Kilometric Radi ation (AKR) in the Earth\u2019s magnetosphere. In fact \u2013 due to this shielding and lack of its own magnetic activity \u2013 the farside of the Moon probably belongs to the most radio-qu iet places in our sola r system. This has been long recognized and the Internati onal Telecommunication Union (ITU) has accordingly designated the lunar far-side as  a radio-quiet zone for radio astronomy(ITU Radio Regulations, Article 22, Secti on V). The installation of such a low-frequency radio array could pr oceed in several steps, star ting with a few antennas and then growing to a larger an d larger network (i deally out to te ns to hundreds or kilometres with thousands of antennas). Wh ile the first steps can certainly be done  robotically, a large-scale installation over such  diverse terrain and large distances, will ultimately be much more efficient with the presence of humans on the surface.   "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 4,
+            "text": "In addition to radio telescopes, a number of  other types of lunar observatories have been discussed (for example, see the disc ussion reported by Crawford and Zarnecki, 2008). The huge cost overruns of the HST-successor, JWST, have shown how difficult it is to fold-up and bring even me dium-sized optical telescopes into space. For certain applications liquid-mirror te lescopes have been proposed, whereby the combination of a rotating fluid and the Moon\u2019s gravity would form a perfect (non-steerable) mirror that could de tect the very first stars in  the universe (Angel et al. 2008), although this technique currently has a rather low technical readiness. Perhaps a simpler, and scientifically topical and important, implementation of lunar-based telescopes would be to obtai n disc-integrated spectral, polarimetric, and albedo measurements of the Earth. Such observati ons could provide important insights into both the Earths radiation budget and climate (e.g. Pall\u00e9 and Goode, 2009), and the interpretation of observations of Earth- like exoplanets and the interpretation of planetary biosignatures (e.g. Sparks et al., 2010; Karalidi  et al., 2012).  "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 5,
+            "text": "With regard to larger instruments, the lunar surface and gravity may facilitate the construction of interferometers by combini ng a set of smaller optical, IR, and sub-mm-wave telescopes \u2013 a concept similar to the radio interferometer array. However, here shielding is not such  an issue and one needs to  compare these Moon-based interferometers with free-flying and formati on-flying satellites. The latter concept has been the preferred option for small-numbe r-of-elements interferometers (e.g., Cockell et al. 2009). On the other hand, formati on flight to the requ ired precision for  astronomical interferometers has not been  realized so far,  while ground-based interferometers are well understood and tested.  "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 6,
+            "text": "Moreover, the Moon as a large airless body could host detector s for cosmic ray particles. Those particles are typically abso rbed in the Earth\u2019s atmosphere but would reach the lunar surface unimpeded. The det ectors could be distributed over the Moon to study solar-wind induced structural vari ations of the cosmic ray flux at low energies. At energies above 1015 eV the composition of cosmic rays could be directly measured, if a large detector can be bui lt using, e.g., lunar wa ter resources. Here, however, one needs to critically assess wh ether the science return justifies the undoubtedly high costs for these concepts.  "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 7,
+            "text": "Finally, the simple presence of a lunar infrastructure for human activities, may lend itself to the relatively simple installation of smaller telescopes and experiments. Indeed, Apollo 16 deployed a UV telescope on the Moon (Carruthers, 1973) \u2013 a class of telescopes that was later flown on satellites (e.g. the International Ultraviolet Explorer, IUE). This would qualify as \u201c opportunistic\u201d science, i.e., missions that simply catch a ride, given it is there. At th e very least, an existing \u2018science-park\u2019 on the Moon would take the burden of taking al ong one\u2019s own attitude control, power-supply, or data handling capability, which now has to be carried by every astronomy satellite. Whether by th e time such an infrastr ucture is likely to be  available there will still a sufficient science case left for such sm all telescopes remains to be seen. On the other hand, it is worth noting that, perhaps surprisingly, sm all robotic telescopes have revolutionized some areas of astronomy (e.g., planet searches, Gamma-Ray-Burst afterglows) in recent years and may continue to do so.   "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 8,
+            "text": "To summarize: a low-frequency lunar radi o telescope to map the last unexplored frequency window to the universe, and to explore the dark ages of the universe, should be feasible and would be uniquely  suited for the Moon\u2019s far-side. Small optical/IR telescopes to observe the Earth from the nearside may also be scientifically valuable. Large (10 metre plus) optical tele scopes or interferom eters might at some point benefit from the lunar surface as a plat form, but the technical case for this still needs to be developed, and the Moon as a site for such telescopes needs to be better studied. Smaller telescopes could be inst alled, using lunar activ ities as opportunity. All options would certainly benefit from a sustainable human return to the Moon, but certainly will not drive it. This situation is , however, not very much different from the usage of Antarctica for astronomy, where astro physicists simply made use of the fact that Antarctic exploration programs and infr astructure already existed. Perhaps the same will happen with the Moon in the coming decades. "
+        },
+        {
+            "section": "4.2 Which astronomy?",
+            "number": 9,
+            "text": "As a final note: a potentially disturbing f actor for many telescopes at wavelengths shorter than radio is the unknown dust mobility on the Moon, which might cover mirrors and joints over a period of time. Also, for radio telescopes the dielectric properties of the lunar surface, the existence of an ionosphere, and the temporal (e.g., through cosmic rays) and spectral radio b ackground variations s hould be studied to verify the feasibility of the lunar surface for future astronomy applications. Hence, any lunar precursor missions, such as ESA\u2019s proposed Lunar Lander (Carpenter et al., 2008; 2012) should investigate these effects in more detail in order to optimize future astronomical observations from the Moon..   "
+        },
+        {
+            "section": "5 Conclusions",
+            "number": 1,
+            "text": " Summarising the above, we see that the luna r geological record still has much to tell us about the earliest history of  the Solar System, the origin  and evolution of the Earth-Moon system, the geological evolution of ro cky planets, and the near-Earth cosmic environment throughout Solar System histor y. These lunar science objectives were strongly endorsed by the US National Res earch Council Report on the Scientific Context for Exploration of the Moon (NRC 2007), and a number of them (i.e. those which could be addressed by sample return from the South Pole-A itken Basin and by the creation of a lunar geophysics network) received high priority in the recent US Planetary Science Decadal Survey (NRC, 2011) . Addressing these objectives requires an end to the 40-year hiatus of lunar surface exploration, with the placing of scientific instruments on, and the return of samples from, the surface of the Moon, with a particular emphasis on regions not previously visited. It is  also clear that the lunar surface offers outstanding opportunities fo r research in astronomy, astrobiology, fundamental physics, life sciences  and human physiology and medicine. "
+        },
+        {
+            "section": "5 Conclusions",
+            "number": 2,
+            "text": "Many of these objectives, can be addresse d robotically, as re flected by the large number of proposals for lunar surface robotic expl oration that have been put forward in recent years (e.g. MoonLITE and MoonRaker, Gao et al., 2008; MoonRise, Jolliff et al., 2010; Lunar Beagle, Gibson et al ., 2010; SELENE-2, Hashimoto et al., 2011; Luna-Glob,  Mitrofanov et al ., 2011; Lunette, Neal et al ., 2011; LunarNet, Smith et al., 2012; Farside Explorer, Mimoun et al., 2012; and ESA\u2019s Lunar Lander, Carpenter et al., 2012). However, in the longer term, it is also clear that most of these scientific objectives would benefit from the scientif ic infrastructure, on the spot decision making, enhanced surface mobility, and samp le return capacity that would be  provided by renewed human operations on the lunar surface (e.g. Spudis, 2001; Garvin, 2004; Cockell, 2004; Crawford, 2004; 2012). Indeed, some of  these scientific objectives will be impossible to conduct r obotically (i.e. those related to human physiology and medicine where humans will form the experimental subjects), and others (e.g. deep drilling into the lunar crust to extract undisturbed palaeoregolith deposits with their potentially rich record of Solar System history) may be wholly impractical without a human presence. That said , it is also true that a human return to the Moon will benefit from robotic precurs or missions, for example to assess possible seismic and impact hazards, regolith prope rties (including possible dust toxicity; Linnarsson et al. 2012, this issue) , the radiation environment, and in situ  resource availability (Anand et al. 2012, this issue). Fo r all these reasons it is highly desirable that current plans for robotic  exploration of the lunar surface are developed in the context of a future human exploration programme. "
+        },
+        {
+            "section": "5 Conclusions",
+            "number": 3,
+            "text": "Fortunately, such a programme is under act ive international discussion. In 2007 the World\u2019s space agencies came together to  develop the Global Exploration Strategy (GES), which lays the foundations for a gl obal human and robotic  space exploration programme (GES 2007).  One of the first fru its of the GES has been the development of a Global Exploration Roadmap (GER 2011) , which outlines possible international contributions to human and robotic missions  to the Moon, near-Earth asteroids and, eventually, Mars. Implementation of this  roadmap would provide many opportunities for pursuing the science objectives outlined in this paper, and lunar science would therefore be a major beneficiary of its implementation.   "
+        }
+    ]
+}
