@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7zu9ORHBvYbOpj6VlDyMELbYFcR4P",
+    "object": "chat.completion",
+    "created": 1694988206,
+    "model": "gpt-4-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "- Introduction: 3\n- Related Works: 10\n- Unified Contrastive Fusion Transformer (UCF-Former): 7\n- Empirical Results: 2\n- Conclusions: 1"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 135,
+        "completion_tokens": 42,
+        "total_tokens": 177
+    }
+}
