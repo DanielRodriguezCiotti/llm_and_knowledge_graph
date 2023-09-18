@@ -5,16 +5,10 @@ from dotenv import dotenv_values, load_dotenv
 import json
 import networkx as nx
 import matplotlib.pyplot as plt
-from pylatexenc.latex2text import LatexNodes2Text
 
 
 load_dotenv()
 config = dotenv_values(".env")
-
-
-def parse_tex(tex_code):
-    text = LatexNodes2Text().latex_to_text(tex_code)
-    return text
 
 
 def read_json(path):
@@ -109,17 +103,3 @@ def add_graph(nodes, edges, database="neo4j"):
         edge_query = create_edge_query(edge)
         records, summary, keys = driver.execute_query(edge_query, database=database)
     driver.close()
-
-"""d = read_json("complet.json")
-edges, nodes = parse_completion(d)
-#print(edges)
-#print(nodes)
-#add_graph(nodes, edges)
-nx_edges = [(edge[0], edge[1], {"relations": edge[2]}) for edge in edges]
-g = nx.DiGraph()
-g.add_nodes_from(nodes)
-g.add_edges_from(nx_edges)
-
-nx.draw(g)
-plt.savefig("fig.png")"""
-

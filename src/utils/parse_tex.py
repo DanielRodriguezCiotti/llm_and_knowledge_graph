@@ -157,6 +157,6 @@ with open("nodes_list", "wb") as fp:
 with open("edges_list", "wb") as fp:
     pickle.dump(edges, fp)
 
-g = create_graph(nodes, edges)
+"""g = create_graph(nodes, edges)
 nx.draw(g)
-plt.savefig("fig.png")
+plt.savefig("fig.png")"""
