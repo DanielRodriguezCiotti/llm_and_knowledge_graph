@@ -1,0 +1,285 @@
+{
+    "Article": {
+        "label": "article",
+        "childs": {
+            "Abstract": {
+                "label": "Section",
+                "childs": {
+                    "Abstract P1": {
+                        "label": "Paragraph"
+                    }
+                }
+            },
+            "1. Introduction": {
+                "label": "Section",
+                "childs": {
+                    "1. P1": {
+                        "label": "Paragraph"
+                    }
+                }
+            },
+            "2. Science of the Moon": {
+                "label": "Section",
+                "childs": {
+                    "2. P1": {
+                        "label": "Paragraph"
+                    },
+                    "2. P2": {
+                        "label": "Paragraph"
+                    },
+                    "2.1 The Bombardment History of the Inner Solar System": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.1 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.1 P2": {
+                                "label": "Paragraph"
+                            },
+                            "2.1 P3": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.2 The structure and composition of the lunar interior": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.2 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.2 P2": {
+                                "label": "Paragraph"
+                            },
+                            "2.2 P3": {
+                                "label": "Paragraph"
+                            },
+                            "2.2 P4": {
+                                "label": "Paragraph"
+                            },
+                            "2.2 P5": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.3 The diversity of lunar crustal rocks": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.3 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.3 P2": {
+                                "label": "Paragraph"
+                            },
+                            "2.3 P3": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.4 Volatiles at the lunar poles": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.4 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.4 P2": {
+                                "label": "Paragraph"
+                            },
+                            "2.4 P3": {
+                                "label": "Paragraph"
+                            },
+                            "2.4 P4": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.5 Lunar volcanism": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.5 P1": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.6 Impact processes": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.6 P1": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.7 Regolith processes": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.7 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.7 P2": {
+                                "label": "Paragraph"
+                            },
+                            "2.7 P3": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "2.8 Atmospheric and dust environment": {
+                        "label": "Subsection",
+                        "childs": {
+                            "2.8 P1": {
+                                "label": "Paragraph"
+                            },
+                            "2.8 P2": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    }
+                }
+            },
+            "3. Science on the Moon": {
+                "label": "Section",
+                "childs": {
+                    "3.1 Life sciences and astrobiology": {
+                        "label": "Subsection",
+                        "childs": {
+                            "3.1 P1": {
+                                "label": "Paragraph"
+                            },
+                            "3.1.1 Research that enhances our understanding of the habitability of the Earth through time": {
+                                "label": "Subsection",
+                                "childs": {
+                                    "3.1.1 P1": {
+                                        "label": "Paragraph"
+                                    }
+                                }
+                            },
+                            "3.1.2 Research that enhances our understanding of the possibility of life elsewhere in the Universe": {
+                                "label": "Subsection",
+                                "childs": {
+                                    "3.1.2 P1": {
+                                        "label": "Paragraph"
+                                    },
+                                    "3.1.2 P2": {
+                                        "label": "Paragraph"
+                                    },
+                                    "3.1.2 P3": {
+                                        "label": "Paragraph"
+                                    }
+                                }
+                            },
+                            "3.1.3 Research that advances the human exploration and settlement of space": {
+                                "label": "Subsection",
+                                "childs": {
+                                    "3.1.3 P1": {
+                                        "label": "Paragraph"
+                                    },
+                                    "3.1.3 P2": {
+                                        "label": "Paragraph"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "3.2 Human physiology and medicine": {
+                        "label": "Subsection",
+                        "childs": {
+                            "3.2 P1": {
+                                "label": "Paragraph"
+                            },
+                            "3.2 P2": {
+                                "label": "Paragraph"
+                            },
+                            "3.2 P3": {
+                                "label": "Paragraph"
+                            },
+                            "3.2 P4": {
+                                "label": "Paragraph"
+                            },
+                            "3.2 P5": {
+                                "label": "Paragraph"
+                            },
+                            "3.2 P6": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "3.3 Fundamental physics": {
+                        "label": "Subsection",
+                        "childs": {
+                            "3.3 P1": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    }
+                }
+            },
+            "4. Science from the Moon – Astronomy": {
+                "label": "Section",
+                "childs": {
+                    "4.1 Why Astronomy?": {
+                        "label": "Subsection",
+                        "childs": {
+                            "4.1 P1": {
+                                "label": "Paragraph"
+                            },
+                            "4.1 P2": {
+                                "label": "Paragraph"
+                            },
+                            "4.1 P3": {
+                                "label": "Paragraph"
+                            },
+                            "4.1 P4": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    },
+                    "4.2 Which astronomy?": {
+                        "label": "Subsection",
+                        "childs": {
+                            "4.2 P1": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P2": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P3": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P4": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P5": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P6": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P7": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P8": {
+                                "label": "Paragraph"
+                            },
+                            "4.2 P9": {
+                                "label": "Paragraph"
+                            }
+                        }
+                    }
+                }
+            },
+            "5 Conclusions": {
+                "label": "Section",
+                "childs": {
+                    "5. P1": {
+                        "label": "Paragraph"
+                    },
+                    "5. P2": {
+                        "label": "Paragraph"
+                    },
+                    "5. P3": {
+                        "label": "Paragraph"
+                    }
+                }
+            }
+        }
+    }
+}
