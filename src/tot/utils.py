@@ -103,3 +103,4 @@ def add_graph(nodes, edges, database="neo4j"):
         edge_query = create_edge_query(edge)
         records, summary, keys = driver.execute_query(edge_query, database=database)
     driver.close()
+    
