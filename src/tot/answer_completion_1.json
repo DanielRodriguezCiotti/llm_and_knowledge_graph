@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-7zu9R3sSMhdghIBrnrSuZbY4121Bf",
+    "object": "chat.completion",
+    "created": 1694988209,
+    "model": "gpt-4-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Based on the question, the relevant score might be assigned as follows:\n\n- Multimodal Fusion Methods for HAR: 1\n   This section might not be very relevant as it pertains to multimodal fusion methods for HAR (Human Activity Recognition), and not contrastive learning.\n\n- Contrastive Learning: 9\n   The main concepts of the related work of contrastive learning would most likely be discussed in depth in this section.\n\n- Unified Transformer for Multimodal Task: 3 \n   This section might mention some concepts related to contrastive learning while discussing the unified transformer for a multimodal task, but it might not be the main focus."
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 132,
+        "completion_tokens": 131,
+        "total_tokens": 263
+    }
+}

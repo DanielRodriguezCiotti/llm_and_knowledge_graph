@@ -1,0 +1,40 @@
+% HAR overview
+\IEEEPARstart{H}{uman} Action Recognition (HAR) is a process that involves the automatic identification and classification of human actions based on sensor data. 
+HAR has a wide range of applications, including healthcare monitoring \cite{liu2022overview}, fitness tracking \cite{pathan2019machine}, action analysis, gesture-based interfaces \cite{saini2020human}, and context-aware systems \cite{fan2022context}. The ability to automatically recognize and classify human activities based on sensor measurements has the potential to enhance various domains and improve user experiences. 
+
+Various sensors such as video camera, wearable devices \cite{kumari2017increasing},  and environmental sensors \cite{cippitelli2017human} can be utilized to acquire data for HAR. 
+Based on the sensor types, HAR  methods can be broadly classified into two categories: those based on visual data and those based on non-visual data. Visual data is acquired from camera sensors, including video, depth, and infrared cameras.
+These camera sensors capture high-resolution images that depict the movement and posture of individuals. Deep learning models, especially convolutional neural networks (CNNs), have been widely employed for HAR using visual data \cite{taylor2010convolutional, qiu2017learning, carreira2017quo, feichtenhofer2019slowfast}.
+On the other hand, non-visual data can be acquired from various sensors including accelerometers, gyroscopes, magnetometers, and pressure sensors. These sensors capture non-visual data related to the body's physical movements. Devices like smartwatches \cite{diete2019vision}, fitness trackers \cite{chen2014home}, and smartphones \cite{khandnor2017survey} integrate such sensors, allowing users to continually monitor their activities. Various deep learning architectures for modeling sequential data  have been used to conduct HAR based on non-visual data \cite{zhao2018deep,al2018hierarchical,gao2021danhar}.
+
+The use of multimodal data is motivated by several factors. First, different sensor modalities capture different aspects of human motion and provide complementary information that enhances the accuracy of action recognition \cite{dang2020sensor}. Second, using multiple sensor modalities can offer redundancy, which can improve the robustness of action recognition \cite{ravi2016deep}. Third, multimodal data can provide a more comprehensive representation of human action, improving generalization and adaptability of HAR models \cite{ravi2016deep, atrey2010multimodal}. By capturing different aspects of human motion across various sensor modalities, the models can be trained to generalize across diverse scenarios, users, and environments.
+
+
+However, utilizing multimodal data in HAR poses some challenges. One of the main challenges is establishing a joint representation for multimodal data that captures complex relational semantics. To maximize the benefits of sensor fusion, HAR models should produce the complementary yet semantically well aligned features from each modality.
+Another challenge is optimally  combining the data from different sensors and modalities. The varied forms of data are typically noisy, intricate, and exhibit high variability. These challenges necessitate an efficient sensor fusion algorithm capable of modeling their relational structure and integrating data adaptively based on its quality.
+% multimodal fusion method.
+
+To date, various multimodal fusion architectures have been proposed  for HAR. 
+In \cite{moencks2019adaptive}, Meoncks et al.  proposed adaptive feature processing for HAR using RGBD and LiDAR, and in  \cite{shahroudy2017deep}, Shahroudy et al.  presented the shared specific feature factorization network to combine multimodal signals. Hierarchical Multimodal Self-Attention (HAMLET) \cite{islam2020hamlet} combined global and local features extracted from RGB and IMU through Transformer.
+Multitask Learning-based Guided Multimodal (MuMu) \cite{islam2022mumu} integrated a multi-task learning strategy to a multimodal fusion network. 
+Vision-to-Sensor Knowledge Distillation (VSKD) strategy \cite{ni2022cross} proposed the network for transferring the knowledge from video modality to inertial modality.
+MAVEN \cite{islam2022maven} enhanced the performance of multimodal fusion by using a memory-augmented recurrent network and aligning representations using an attention mechanism.
+
+% Contribution
+In this study, we introduce  a new  unified multimodal fusion framework  for HAR, referred to as the Unified Contrastive Fusion Transformer (UCFFormer). This framework effectively combines multimodal data of varying distributions, including both visual and nonvisual data. The UCFFormer is different from the existing fusion architectures in these two aspects. First, UCFFormer derives joint representation of multimodal sensor data using a unified Transformer architecture, which has been successfully used for vision-language modeling  lately \cite{zhou2020unified}. It first extracts the embedding features of the same size from each multimodal input and encodes them via Multimodal Self-attention capturing pairwise interactions across both time and modality domains. 
+We introduce an efficient implementation of Multimodal Self-attention for the unified Transformer. We devise a Factorized Time-Modality Self-attention to independently encode the embeddings in both time and modality domains. Two strategies are proposed for  factorized attention: parallel and sequential factorization. While parallel factorization conducts self-attention across both time and modality domains simultaneously, sequential factorization alternates between them in each Transformer layer.
+
+Next, we propose a feature alignment strategy based on a contrastive learning approach. By minimizing the cosine similarity metric defined between the embedding vectors of different modalities, the proposed method can mitigate the domain gap between the modalities and thereby boost the effectiveness of multimodal feature fusion. As a result, the proposed Multimodal Contrastive Alignment Network (MCANet) generates embedding features that are more coherent and semantically aligned. 
+%These embeddings are then fused for action classification. 
+
+
+We evaluate the performance of UCFFormer on two widely used multimodal HAR datasets, UTD-MHAD \cite{chen2015utd} and NTU RGB+D \cite{shahroudy2016ntu}. Our evaluation demonstrates that UCFFormer outperforms existing HAR models by significant margins, recording a new state-of-the-art performance. In particular, UCFFormer achieves remarkable 99.99\% Top-1 accuracy on UTD-MHAD dataset. 
+
+The key contributions of this study are summarized as follows:
+\begin{itemize}
+    \item We present a novel multimodal fusion network called UCFFormer. Our approach leverages a unified Transformer to enhance the embedding features extracted from different sensor data modalities. 
+    This structure enables sensor fusion whose design is agnostic to the type and number of multimodal inputs, without the need for specific custom designs for different modality types. 
+    \item We introduce the Factorized Time-Modality Self-attention for the efficient encoding of embedding features. To this goal, we present two distinct factorization strategies. 
+    \item We further enhance the effects of sensor fusion by aligning the embedding features semantically using contrastive learning. To the best of our knowledge, we are the first to demonstrate the efficacy of contrastive learning in multimodal HAR. Our contrastive learning-centric alignment technique can be seamlessly integrated into any feature fusion module.
+    \item Our UCFFormer achieves the state-of-the-art performances on UTD-MHAD \cite{chen2015utd} and NTU RGB+D \cite{shahroudy2016ntu} datasets. 
+\end{itemize}
